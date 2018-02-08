@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+body.atari {
+    background-color: #000;
+}
+
+.atari h1,
+.atari h2,
+.atari h3,
+.atari h4,
+.atari h5 {
+    color: #fff;
+    font-family: 'VT323', monospace;
+}
+
+p {
+    font-family: 'VT323', monospace;
+    font-size: 1.3em;
+    color: #fff
+}
+
+.main-content {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+section#footer {
+    background-color: #fe131c;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
